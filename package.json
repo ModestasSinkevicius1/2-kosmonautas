@@ -1,17 +1,25 @@
 {
-  "name": "2-kosmonautas",
+  "name": "2-ufo",
   "version": "1.0.0",
-  "description": "test",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --port=8805 --host=localhost",
+    "dev": "dead-server",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModestasSinkevicius1/2-ufo.git"
   },
   "keywords": [
     "taip"
   ],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModestasSinkevicius1/2-ufo/issues"
+  },
+  "homepage": "https://github.com/ModestasSinkevicius1/2-ufo#readme",
   "devDependencies": {
     "dead-server": "^1.0.6"
   }
