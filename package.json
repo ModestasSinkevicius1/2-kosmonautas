@@ -1,10 +1,10 @@
 {
   "name": "2-ufo",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server",
+    "dev": "dead-server --port=8085 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
